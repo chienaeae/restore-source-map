@@ -1,3 +1,16 @@
+## Google JavaScript Style Guide - [JS Guide](https://google.github.io/styleguide/jsguide.html)
+
+This template uses Google JavaScript Style.
+
+## Git Commit
+
+Use this command to commit in order to follow the commit message style
+
+```bash
+git commit
+# finish the rest of commit options
+```
+
 ## Git Commit Message - [Conventional Commits](https://www.conventionalcommits.org/en)
 
 Add scope if possible (ex. `feat(operator): add new feature`).
