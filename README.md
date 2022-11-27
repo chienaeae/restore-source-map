@@ -1,6 +1,6 @@
-## Google JavaScript Style Guide - [JS Guide](https://google.github.io/styleguide/jsguide.html)
+## Introduction
 
-This template uses Google JavaScript Style.
+This is typescript template for further usage.
 
 ## Git Commit
 
