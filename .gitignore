@@ -1,4 +1,8 @@
 ### Node template
+# Custom
+build
+output
+
 # Intelij IDE
 .idea
 
