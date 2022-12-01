@@ -1,6 +1,24 @@
 ## Introduction
 
-This is typescript template for further usage.
+This is demo project to demonstrate how source map works.
+
+Here, it uses [typescript](https://www.typescriptlang.org/) and [rollup.js](https://rollupjs.org/guide/en/) to bundle code located in the src folder and put it in the `dist` folder.
+
+Then the tool - `restore-source-map.js` will restore the bundle code from `dist` into original code put in the `output` folder.
+
+## Usage
+
+### To bundle code
+
+```bash
+yarn run build
+```
+
+### To restore code
+
+```bash
+yarn run restore-source-map
+```
 
 ## Git Commit
 
